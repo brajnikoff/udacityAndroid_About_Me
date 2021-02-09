@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">About App</string>
     <string name="myNameTitle">Roman</string>
+    <string name="yellow_start">Yellow start</string>
 </resources>
